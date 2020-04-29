@@ -1,20 +1,31 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: SBI Group LLC
+subtitle: Redefining the Value Proposition
+image: img/absolutvision-82tpeld0_e4-unsplash.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+  heading: Why SBI?
+  text: SBI Group is an amalgamation of targeted knowledge, leadership, and
+    project management talent uniquely positioned to delivery value and results.
+    Our dedicated team has expertise in multiple sectors and functions and
+    supports projects in the construction, food service, accounting, aerospace,
+    defense, medical, and education industries.
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+  heading: What we offer
+  text: SBI Group provides services and support for your business needs. We
+    maintain internal services and services provides through a network of talent
+    and business contacts. Let us support your needs.
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+  - image: img/sarah-dorweiler-qevmjxzov3k-unsplash.jpg
+    text: Let our SMB consultants support your business need with services ranging
+      from financial assessments, feasibility studies, market impact analyses,
+      project management, digital transformation, and more.
+  - image: img/bianca-ackermann-rcfi4zccgs4-unsplash.jpg
+    text: Our in-house prototyping, operations, and small business labs can address
+      your specific needs and provide targeted guidance and instruction to
+      foster creativity and promote growth.
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+  heading: Our values
+  text: SBI Group respects its partners, employees, contractors, and customers and
+    maintains a high level of integrity in all it does. Ethical compliance and
+    servant leadership guide us as we work to serve.
 ---
-
